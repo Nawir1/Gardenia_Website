@@ -8,9 +8,9 @@ we use xamap and kali linux
 Steps to follow:
 =
 
-- First: connect to the DB and import the pref_db file
+1- First: connect to the DB and import the pref_db file
 
-- Second: open the main page index.php
+2- Second: open the main page index.php
 
 Enjoy :)
 
